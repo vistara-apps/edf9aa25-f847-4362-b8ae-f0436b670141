@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "FlashTrade Sim",
+    "subtitle": "Built with Zara",
+    "description": "FlashTrade Sim is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://edf9aa25f8474362b8aef0436b670141-zjft.vercel.app",
+    "splashImageUrl": "https://edf9aa25f8474362b8aef0436b670141-zjft.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://edf9aa25f8474362b8aef0436b670141-zjft.vercel.app/image.png",
+    "tagline": "FlashTrade Sim",
+    "screenshotUrls": [
+      "https://edf9aa25f8474362b8aef0436b670141-zjft.vercel.app/screenshot.png",
+      "https://edf9aa25f8474362b8aef0436b670141-zjft.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://edf9aa25f8474362b8aef0436b670141-zjft.vercel.app/api/webhook"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "FlashTrade Sim",
+  "description": "FlashTrade Sim is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://edf9aa25-f847-4362-b8ae-f0436b670141.vercel.app",
+  "properties": {
+    "app": {
+      "name": "FlashTrade Sim",
+      "description": "FlashTrade Sim is a Base Mini App built with Zara.",
+      "url": "https://edf9aa25-f847-4362-b8ae-f0436b670141.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
